@@ -10,6 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@aws-sdk/client-bedrock-runtime": "^3.624.0",
+    "dotenv": "^16.4.5",
     "puppeteer": "^22.15.0",
     "puppeteer-core": "^22.15.0"
   }
